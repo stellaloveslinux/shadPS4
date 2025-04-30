@@ -200,7 +200,7 @@ void ImageInfo::UpdateSize() {
             break;
         }
         default: {
-            UNREACHABLE();
+         // UNREACHABLE();
         }
         }
         mip_info.height = mip_h;
