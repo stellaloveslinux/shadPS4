@@ -216,8 +216,9 @@ std::pair<vk::Buffer, u32> TileManager::TryDetile(vk::Buffer in_buffer, u32 in_o
         if (info.tiling_mode != AmdGpu::TilingMode::Texture_MacroTiled &&
             info.tiling_mode != AmdGpu::TilingMode::Display_MacroTiled &&
             info.tiling_mode != AmdGpu::TilingMode::Depth_MacroTiled) {
-            LOG_ERROR(Render_Vulkan, "Unsupported tiled image: {} ({})",
-                      vk::to_string(info.pixel_format), NameOf(info.tiling_mode));
+          //  LOG_ERROR(Render_Vulkan, "Unsupported tiled image: {} ({})",
+            //          vk::to_string(info.pixel_format), NameOf(info.tiling_mode));
+            // i commented these out just because it will log spam
         }
         return {in_buffer, in_offset};
     }
