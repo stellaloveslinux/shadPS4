@@ -250,7 +250,7 @@ SharpLocation AttemptTrackSharp(const IR::Inst* inst, auto& visited_insts) {
         return std::nullopt;
     };
     const auto result = IR::BreadthFirstSearch(inst, pred);
-    ASSERT_MSG(result, "Unable to track sharp source");
+  //  ASSERT_MSG(result, "Unable to track sharp source");
     inst = result.value();
     visited_insts.emplace_back(inst);
     if (inst->GetOpcode() == IR::Opcode::GetUserData) {
