@@ -24,10 +24,8 @@ SPDX-License-Identifier: GPL-2.0-or-later
         <img src="https://img.shields.io/github/stars/shadps4-emu/shadPS4" width="120">
 </h1>
 
-<p align="center">
-![image](https://github.com/user-attachments/assets/cfdd4ade-4073-46b8-b1db-df0d37ef31cc)
+![image](https://github.com/user-attachments/assets/768ecf48-d76a-4203-b005-c61250aeed41)
 
-</p>
 
 # General information
 
