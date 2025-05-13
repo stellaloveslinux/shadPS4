@@ -26,10 +26,11 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <p align="center">
   <a href="https://shadps4.net/">
-  <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/1.png" width="400">
-  <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/2.png" width="400">
-  <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/3.png" width="400">
-  <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/4.png" width="400">
+  ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
+
+   ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
+   ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
+   ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
 </p>
 
 # General information
