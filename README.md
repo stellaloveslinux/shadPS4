@@ -26,11 +26,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <p align="center">
   <a href="https://shadps4.net/">
-  ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
-
-   ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
-   ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
-   ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66) width="400">
+  ![image](https://github.com/user-attachments/assets/4a1990b2-7753-43fd-8f53-da0092ce3e66)
 </p>
 
 # General information
